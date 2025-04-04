@@ -1,7 +1,6 @@
 import React from 'react';
 
 function ListarAlunos() {
-  // Exemplo de lista de alunos, isso poderia vir de uma API.
   const alunos = [
     { id: 1, nome: 'João',  },
     { id: 2, nome: 'Maria',  },
