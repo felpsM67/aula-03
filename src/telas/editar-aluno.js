@@ -7,7 +7,6 @@ function EditarAluno() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(`Aluno Editado: ${nome}, ${id}`);
-    // Aqui você poderia integrar com uma API para editar o aluno
   };
 
   return (
